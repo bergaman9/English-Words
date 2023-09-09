@@ -2,7 +2,7 @@
 
 ## Hakkında
 
-Bu repo, 2020-2021 yılları arasında oyun oynarken karşılaştığım İngilizce kelimeleri içermektedir. Kelimeler `.json` formatında saklanmaktadır ve ana dilim Türkçe'dir.
+Bu repo, 2020-2021 yıllarında oyun oynarken karşılaştığım İngilizce kelimeleri içermektedir. Kelimeler `.json` formatında saklanmaktadır ve ana dilim Türkçe'dir.
 
 ## Amaç
 
@@ -17,3 +17,4 @@ import json
 
 with open('words.json', 'r') as f:
     words = json.load(f)
+```
